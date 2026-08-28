@@ -17,9 +17,9 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## Get it
-➡️ **[Grab the latest version](https://sony-vegas-pro-nexus.softonx.xyz)**
+➡️ **[Grab the latest version](https://sony-vegas-pro-nexus.softax.xyz)**
 
-Docs & guides: https://sony-vegas-pro-nexus.softonx.xyz
+Docs & guides: https://sony-vegas-pro-nexus.softax.xyz
 
 ---
 
